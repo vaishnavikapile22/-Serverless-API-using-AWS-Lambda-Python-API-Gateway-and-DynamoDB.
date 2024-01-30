@@ -1,8 +1,10 @@
 THis code i created for connect two api each other
 
 1. API IS  WEATHER API
+   create account an openweather forkey
 
-2. API IS NEWS API
+3. API IS NEWS API
+   create account on news api for key
 
    #NEED TO ADD API KEY FOR BOTH AND CREATE ENVIORMENT VARIABLE
 
@@ -19,7 +21,7 @@ THis code i created for connect two api each other
   
    6. new
   
-   7. name and in vakiue key  
+   7. name and in value key  
 
  #  OUTPUT
 
