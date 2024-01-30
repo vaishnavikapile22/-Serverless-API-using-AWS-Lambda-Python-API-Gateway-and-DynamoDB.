@@ -23,6 +23,4 @@ THis code i created for connect two api each other
 
  #  OUTPUT
 
- ![Screenshot (40)](https://github.com/vaishnavikapile22/Two-api-connect-each-other/assets/149785862/497273ee-c6bc-432d-ad89-0aa268bab96f)
-
- 
+ ![Screenshot (40)](https://github.com/vaishnavikapile22/Two-api-connect-each-other/assets/149785862/e290bea3-0f63-4b22-8864-eef5b37f52ad)
