@@ -26,3 +26,10 @@ THis code i created for connect two api each other
  #  OUTPUT
 
  ![Screenshot (40)](https://github.com/vaishnavikapile22/Two-api-connect-each-other/assets/149785862/e290bea3-0f63-4b22-8864-eef5b37f52ad)
+
+ # USING POSTMAN 
+ 1. Go to the website https://openweathermap.org/forecast5
+
+ 2. api.openweathermap.org/data/2.5/forecast?lat=44.34&lon=10.99&appid={API key}
+
+ 3. use this url on postman add key 
