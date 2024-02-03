@@ -32,4 +32,10 @@ THis code i created for connect two api each other
 
  2. api.openweathermap.org/data/2.5/forecast?lat=44.34&lon=10.99&appid={API key}
 
- 3. use this url on postman add key 
+ 3. api.openweathermap.org/data/2.5/forecast?q={city name},{country code}&appid={API key}
+
+ 4. api.openweathermap.org/data/2.5/forecast?q={city name}&appid={API key}
+
+ 5. api.openweathermap.org/data/2.5/forecast?q={city name},{state code},{country code}&appid={API key}
+
+ 6. use this url on postman add key 
