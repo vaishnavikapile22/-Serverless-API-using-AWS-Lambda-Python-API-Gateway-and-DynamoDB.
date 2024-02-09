@@ -4,7 +4,7 @@ import requests
 wikipedia_api_url = 'https://en.wikipedia.org/w/api.php'
 
 # YouTube Data API key
-youtube_api_key = 'AIzaSyA_gkCXEG4sJYAu5BW3cbzeRvVjwsmbPvE'
+youtube_api_key = 'YOUR YOUTUBE KEY'
 
 # Topic you want to search for
 topic = input('Enter your topic: ')
@@ -38,17 +38,13 @@ print("Wikipedia Summary:")
 print(topic_summary)
 print("\nRecommended YouTube Videos for", topic, ":")
 for item in youtube_data['items']:
-    # Print the entire item dictionary for debugging
-    print(item)
-
-    # Access video information
     video_title = item['snippet']['title']
     video_channel = item['snippet']['channelTitle']
-
-    # Check if 'id' key exists in the item dictionary
-    if 'id' in item and 'videoId' in item['id']:
+    
+    # Check if the 'videoId' key exists in 'id' dictionary
+    if 'videoId' in item['id']:
         video_id = item['id']['videoId']
         video_link = f"https://www.youtube.com/watch?v={video_id}"
         print(video_title, "-", video_link, "-", video_channel)
     else:
-        print(f"Skipping item without videoId: {item}")
+        print("Video ID not found for", video_title)
