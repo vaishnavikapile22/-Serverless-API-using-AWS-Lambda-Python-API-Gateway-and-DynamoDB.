@@ -11,17 +11,17 @@ THis code i created for connect two api each other
  * enviorment variable
    1. GO to control panel
   
-   2. small icon select
+   2. Small icon select
   
-   3. systems
+   3. Systems
   
-   4. advance setting
+   4. Advance setting
   
-   5. enviorment variable
+   5. Enviorment variable
   
-   6. new
+   6. New
   
-   7. name and in value key  
+   7. Name and in value key  
 
  #  OUTPUT
 
@@ -36,6 +36,31 @@ THis code i created for connect two api each other
 
  4. api.openweathermap.org/data/2.5/forecast?q={city name}&appid={API key}
 
- 5. api.openweathermap.org/data/2.5/forecast?q={city name},{state code},{country code}&appid={API key}
+ 5 api.openweathermap.org/data/2.5/forecast?q={city name},{state code},{country code}&appid={API key}
 
- 6. use this url on postman add key 
+ 6. use this url on postman add key
+
+    ..............................................................YOUTUBE_WIKIPEDIA..............................................
+
+ 1. For key use Google Cloud Console
+    
+ 2. Sigin
+    
+ 3. Api services
+    
+ 4. Library
+  
+ 5. Enable YOUTUBE DATA API
+
+ 6. Credentials create key
+
+
+
+    #OUTPUT
+
+    ![Screenshot (41)](https://github.com/vaishnavikapile22/Two-api-connect-each-other/assets/149785862/1758e478-f6a7-4748-b369-3f66564431a5)
+
+    
+
+
+    
