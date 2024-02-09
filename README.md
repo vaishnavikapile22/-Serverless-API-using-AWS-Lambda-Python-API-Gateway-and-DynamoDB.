@@ -58,7 +58,11 @@ THis code i created for connect two api each other
 
     #OUTPUT
 
-    ![Screenshot (41)](https://github.com/vaishnavikapile22/Two-api-connect-each-other/assets/149785862/1758e478-f6a7-4748-b369-3f66564431a5)
+   ![Screenshot (44)](https://github.com/vaishnavikapile22/Two-api-connect-each-other/assets/149785862/a7d238bc-8f2f-49d2-a3dd-42a7e1862617)
+
+   ![Screenshot (45)](https://github.com/vaishnavikapile22/Two-api-connect-each-other/assets/149785862/4f8f91c3-6934-423f-918a-32fada77801c)
+
+
 
     
 
